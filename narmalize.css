@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+.contianer{
+    width: 100%;
+    max-width:1140px;
+    margin: 0 auto;
+    padding: 0 16px;
+    box-sizing: border-box;
+}
+ul{
+   list-style: none;
+}
+a{
+    text-decoration: none;
+}
+button:hover{
+    transform: scale(1.1);
+    transition: 0.6s;
+    background-color: aqua;
+}
