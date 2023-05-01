@@ -1,0 +1,213 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.quvonchbek .section_left {
+  width: 40%;
+  display: flex;
+}
+.quvonchbek .section_left .section_right {
+  margin-left: 40px;
+}
+
+.quvonchbek {
+  margin-top: 100px;
+}
+.quvonchbek .section_left img {
+  width: 480px;
+  height: 430px;
+}
+
+.section_right .section_right_top {
+  width: 540px;
+}
+.section_right .section_right_top h2 {
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 42px;
+  line-height: 72px;
+  color: #1B1C23;
+  padding-bottom: 30px;
+}
+
+.section_right .section_right_center {
+  display: flex;
+}
+.section_right .section_right_center img {
+  width: 40px;
+  height: 40px;
+}
+
+.section_right .section_right_center {
+  width: 290px;
+}
+.section_right .section_right_center h3 {
+  margin-left: 50px;
+  margin-top: -48px;
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  color: #1B1C23;
+}
+
+.section_right .section_right_center {
+  width: 270px;
+}
+.section_right .section_right_center p {
+  margin-left: 50px;
+  padding-top: 10px;
+  width: 230px;
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 20px;
+  color: #757683;
+}
+
+.section_right_center .section_right_center_right {
+  padding-left: 20px;
+}
+
+.section_right_bottom .box {
+  margin-top: 170px;
+}
+.section_right_bottom .box h4 {
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  color: #1B1C23;
+}
+
+.section_right_bottom {
+  display: flex;
+}
+.section_right_bottom .box {
+  width: 170px;
+  margin-top: 30px;
+}
+.section_right_bottom .box p {
+  padding-left: 35px;
+  margin-top: -50px;
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #757683;
+}
+
+.section_right_bottom .box1 {
+  margin-top: 30px;
+  width: 170px;
+}
+.section_right_bottom .box1 h4 {
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  color: #1B1C23;
+}
+
+.section_right_bottom .box1 p {
+  padding-left: 60px;
+  margin-top: -50px;
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #757683;
+}
+
+.section_right_bottom .box2 {
+  margin-top: 30px;
+}
+.section_right_bottom .box2 h4 {
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  color: #1B1C23;
+}
+
+.section_right_bottom .box2 p {
+  padding-left: 80px;
+  margin-top: -50px;
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #757683;
+  padding-bottom: 200px;
+}
+
+.Our_Services {
+  width: 1000px;
+  height: 720px;
+  background-color: #F8F8F8;
+  padding-top: 80px;
+}
+.Our_Services h3 {
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 62px;
+  text-align: center;
+  color: #1B1C23;
+  margin-bottom: 50px;
+}
+
+.Our_Services {
+  margin: 50px;
+}
+.Our_Services .card {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  padding-left: 50px;
+}
+.Our_Services .card .cars {
+  width: 280px;
+  height: 270px;
+  margin: 10px;
+  background-color: #FFFFFF;
+}
+
+.card .cars img {
+  width: 50px;
+  height: 50px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.card .cars h6 {
+  margin-top: -60px;
+  padding-left: 90px;
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  color: #1B1C23;
+}
+
+.card .cars p {
+  padding-top: 20px;
+  padding-left: 20px;
+  font-family: "THICCCBOI";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: #757683;
+}/*# sourceMappingURL=Quvonchbek.css.map */
