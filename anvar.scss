@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section__small{
+    margin-top: 100px;
+}
+.small__medium{
+    .medium__text{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 44px;
+        line-height: 55px;
+        text-align: center;
+        color: #1b1c23;
+    }
+}
+
+.medium__main{
+    display: flex;
+    margin-top:30px;
+    margin-left:65px;
+    
+    .medium__box{
+        margin:0 10px;
+        border: 2px solid #dfdfdf;
+        width: 300px;
+        height: 370px;
+        position: relative;
+        .medium__textera{
+            margin-left: 31px;
+            margin-top: 10px;
+            font-style: normal;
+            font-size: 20px;
+            font-weight: 700;
+            color: #1B1C23;
+            line-height: 22px;
+        }
+        }
+}
+
+.box__title{
+    margin-top: 10px;
+    .box__text{
+        font-style: normal;
+        font-weight: 200;
+        font-size: 12px;
+        color: #757683;
+        display: inline-flex;
+        align-items: center;
+        margin: 0px -20px;
+        margin-left: 31px;
+        .box__text__img{
+            margin: 3px;
+        }
+
+    }
+}
+.medium__card{
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+    border:2px solid #dfdfdf;
+    border-radius: 20px;
+    margin-left:31px;
+    margin-top: 34px;
+    background-color: rgb(255, 255, 255);
+    .medium__card__img{
+        margin-left: 5px;
+
+
+    }
+    .medium__card__text{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 10px;
+        line-height: 21px;
+        color: #1b1c23;
+        margin:0 10px;
+    }
+}
+
+.section__small__text{
+    margin-top: 100px;
+    text-align: center;
+    .section__small__text__title{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+        color: #1B1C23;
+        width: 500px;
+        height:100px;
+        margin-left: 295px;
+    }
+    .section__small__text__subtitle{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 55px;
+        text-align: center;
+        color: #1B1C23;
+    }
+}
+.small__lead{
+    align-items: center;
+    display: flex;
+    margin-left: 330px;
+    .small__lead_left{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 55px;
+        text-align: center;
+        color: #FF694B;
+
+    }
+    .small__lead_right{
+        margin-left: 10px;
+
+    }
+}
+
+.footer__boxs{
+    position: relative;
+    margin-top: 100px;
+    background-color: #F8F8F8;
+    width: 950px;
+    height: 500px;
+    margin-left: 70px;
+    .boxs__img{
+        position: absolute;
+        margin-top:80px;
+        left: 49%;
+        
+    }
+    .boxs__text{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 55px;
+        color: #1B1C23;
+        margin-top:140px;
+        position: absolute;
+        left: 35%;
+    }
+}
+.footer__boxs{
+    .boxs__title{
+        position: absolute;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 25px;
+        text-align: center;
+        color: #757683;
+        width: 400px;
+        left: 30%;
+        margin-top: 210px;
+    }
+}
+
+.footer__icon{
+    position: absolute;
+    left: 39%;
+    top: 290px;
+}
+
+.footer__nav{
+    position: absolute;
+    top: 450px;
+    left: 40px;
+    
+    .footer__nav__list {
+        display: flex;
+        .footer__nav__item{
+            margin:0 10px;
+        }
+
+    }
+}
+
+.footer__nav__item{
+    a{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        color: #757683;
+    }
+    
+}
+.footer__nav>ul>li>a:hover{
+    color: rgb(10, 10, 225);
+    opacity: 0.5;
+}
+.footer__mail{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 70%;
+    top: 90%;
+    .footer__mail__text{
+        margin: 0 5px;
+        font-style: normal;
+        font-size: 18px;
+        font-weight: 500;
+        color: #757683;
+        line-height: 21px;
+    }
+    .footer__mail__text:hover{
+        color: rgb(9, 9, 245);
+        opacity: 0.6;
+    }
+}
+
+.footer__bottom{
+    margin-top: 20px;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 21px;
+    color: #899098;
+}
